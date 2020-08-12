@@ -1,0 +1,5 @@
+conda activate MetaTPOT
+python MetaTPOT_experiments.py yalla03_4 A Classification 100 100 /data/home/laadan/Msc/MetaLearner/MetaLearner/Results/Classification/Classification_metalearner_df.csv /data/home/laadan/Msc/MetaLearner/Raw_Data/Classification/JsonFormCLF 0 0.05 1 offspring 10 20 0 /data/home/laadan/Msc/MetaLearner/DataSets /data/home/laadan/Msc/MetaLearner/MetaLearner/Results /data/home/laadan/Msc/MetaLearner/datasets_metaFeatures 0
+
+yalla02_1 A Classification 100 100 C:\School\workspace\MetaLearner\MetaLearner\Results\Classification\Classification_metalearner_df.csv C:\School\workspace\MetaLearner\Raw_Data\Classification\JsonFormCLF 0 0.05 0 both 10 20 0 C:\School\workspace\MetaLearner\DataSets C:\School\workspace\MetaLearner\MetaLearner\Results C:\School\workspace\MetaLearner\datasets_metaFeatures 1
+

@@ -1,0 +1,11 @@
+method,parameter1,parameter2
+TPOT,,
+boosting,boosting_precent=1.0,
+boosting,boosting_precent=0.05,
+boosting,boosting_precent=0.1,
+boosting,boosting_precent=0.2,
+fitness,,
+selection,offspring+population,tournament_size=10
+selection,offspring,tournament_size=10
+selection,pop,tournament_size=10
+ranking,top_20,
